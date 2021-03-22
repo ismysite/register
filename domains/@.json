@@ -1,0 +1,11 @@
+{
+  "description": "The root domain for ismysite.ml website",
+  "repo": "https://github.com/ismysite/ismysite.github.io",
+  "owner": {
+    "username": "MTGSquad",
+    "email": "mtgissmart@gmail.com"
+  },
+  "record": {
+    "CNAME": "ismysite.github.io"
+  }
+}
